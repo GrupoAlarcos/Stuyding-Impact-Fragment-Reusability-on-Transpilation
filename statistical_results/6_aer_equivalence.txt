@@ -1,0 +1,6 @@
+[Tiempo de ejecucion en Aer] n=35 casos; Wilcoxon p=0.0241; cociente Whole/Fragments: mediana=1.071, min=0.689, max=2.077
+
+[Error medio] n=35 casos; diferencia media (Whole-Fragments)=-0.00025; media |dif|=0.00127; max |dif|=0.00547
+IC90% de la diferencia media: [-0.00079, 0.00029]
+TOST con margen +-0.01: p=1.47e-26 (equivalentes si p<0.05, equivale a IC90% dentro del margen)
+Wilcoxon pareado sobre errores: p=0.798

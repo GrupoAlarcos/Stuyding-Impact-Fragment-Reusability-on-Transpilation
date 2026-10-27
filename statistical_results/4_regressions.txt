@@ -1,0 +1,12 @@
+[fake_fez] Whole, M=1: pendiente log2(t)=1.02 (x2.03 por qubit), R2=0.996
+[fake_fez] Whole, M=2: pendiente log2(t)=1.04 (x2.06 por qubit), R2=0.999
+[fake_fez] Whole, M=4: pendiente log2(t)=1.05 (x2.07 por qubit), R2=0.999
+[fake_fez] Whole, M=8: pendiente log2(t)=0.95 (x1.93 por qubit), R2=0.999
+[fake_fez] Whole, M=10: pendiente log2(t)=0.94 (x1.92 por qubit), R2=0.996
+[fake_fez] Fragments: t = -0.454 + 0.075*(M+2) + 0.070*qubits, R2=0.892
+[fake_marrakesh] Whole, M=1: pendiente log2(t)=0.95 (x1.93 por qubit), R2=1.000
+[fake_marrakesh] Whole, M=2: pendiente log2(t)=0.85 (x1.80 por qubit), R2=0.994
+[fake_marrakesh] Whole, M=4: pendiente log2(t)=0.86 (x1.82 por qubit), R2=0.998
+[fake_marrakesh] Whole, M=8: pendiente log2(t)=0.92 (x1.90 por qubit), R2=0.986
+[fake_marrakesh] Whole, M=10: pendiente log2(t)=0.84 (x1.79 por qubit), R2=0.990
+[fake_marrakesh] Fragments: t = -0.475 + 0.084*(M+2) + 0.069*qubits, R2=0.889

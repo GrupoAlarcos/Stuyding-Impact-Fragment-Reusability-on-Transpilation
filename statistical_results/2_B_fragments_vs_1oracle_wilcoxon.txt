@@ -1,0 +1,12 @@
+Fragments vs Frag1Oracle
+GLOBAL (n=56 pares): Wilcoxon W=0.0, p=7.55e-11
+Casos con Fragments < Frag1Oracle: 56 de 56
+Test unilateral (Fragments mas rapido que Frag1Oracle): p=3.77e-11
+Sobrecoste de Frag1Oracle sobre Fragments (%): mediana=7.4, Q1=3.3, Q3=16.9, max=137.7, casos >20%: 13
+qubits=4 (n=8): W=0.0, p=0.00781, p_Holm=0.0547
+qubits=5 (n=8): W=0.0, p=0.00781, p_Holm=0.0547
+qubits=6 (n=8): W=0.0, p=0.00781, p_Holm=0.0547
+qubits=7 (n=8): W=0.0, p=0.00781, p_Holm=0.0547
+qubits=8 (n=8): W=0.0, p=0.00781, p_Holm=0.0547
+qubits=9 (n=8): W=0.0, p=0.00781, p_Holm=0.0547
+qubits=10 (n=8): W=0.0, p=0.00781, p_Holm=0.0547

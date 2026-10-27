@@ -1,0 +1,10 @@
+Whole vs Fragments
+GLOBAL (n=70 pares): Wilcoxon W=547.0, p=4.7e-05
+Casos con Whole < Fragments: 27 de 70
+qubits=4 (n=10): W=0.0, p=0.00195, p_Holm=0.0137
+qubits=5 (n=10): W=4.0, p=0.0137, p_Holm=0.0273
+qubits=6 (n=10): W=9.0, p=0.0645, p_Holm=0.0645
+qubits=7 (n=10): W=0.0, p=0.00195, p_Holm=0.0137
+qubits=8 (n=10): W=0.0, p=0.00195, p_Holm=0.0137
+qubits=9 (n=10): W=0.0, p=0.00195, p_Holm=0.0137
+qubits=10 (n=10): W=0.0, p=0.00195, p_Holm=0.0137
